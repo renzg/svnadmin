@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/145/trunk/src/main/java/org/svnadmin/dao
+END
+PjAuthDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/145/trunk/src/main/java/org/svnadmin/dao/PjAuthDao.java
+END
+PjGrUsrDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/145/trunk/src/main/java/org/svnadmin/dao/PjGrUsrDao.java
+END
+I18nDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/65/trunk/src/main/java/org/svnadmin/dao/I18nDao.java
+END
+Dao.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/44/trunk/src/main/java/org/svnadmin/dao/Dao.java
+END
+PjGrDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/src/main/java/org/svnadmin/dao/PjGrDao.java
+END
+PjUsrDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/145/trunk/src/main/java/org/svnadmin/dao/PjUsrDao.java
+END
+UsrDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/145/trunk/src/main/java/org/svnadmin/dao/UsrDao.java
+END
+PjDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/109/trunk/src/main/java/org/svnadmin/dao/PjDao.java
+END

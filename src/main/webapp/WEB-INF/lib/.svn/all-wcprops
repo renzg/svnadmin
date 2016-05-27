@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/85/trunk/src/main/webapp/WEB-INF/lib
+END
+ojdbc-10.2.0.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/85/trunk/src/main/webapp/WEB-INF/lib/ojdbc-10.2.0.3.0.jar
+END
+sqljdbc-2005.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/85/trunk/src/main/webapp/WEB-INF/lib/sqljdbc-2005.jar
+END

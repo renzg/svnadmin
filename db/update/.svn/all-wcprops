@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/90/trunk/db/update
+END
+mysql5-3.0.x update to 3.0.2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/90/trunk/db/update/mysql5-3.0.x%20update%20to%203.0.2.sql
+END
+oracle10g-3.0.x update to 3.0.2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/90/trunk/db/update/oracle10g-3.0.x%20update%20to%203.0.2.sql
+END
+sqlserver2000-3.0.x update to 3.0.2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/90/trunk/db/update/sqlserver2000-3.0.x%20update%20to%203.0.2.sql
+END

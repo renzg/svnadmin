@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/94/trunk/src/main/java/org/svnadmin/util
+END
+I18N.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/65/trunk/src/main/java/org/svnadmin/util/I18N.java
+END
+EncryptUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/24/trunk/src/main/java/org/svnadmin/util/EncryptUtil.java
+END
+SpringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/94/trunk/src/main/java/org/svnadmin/util/SpringUtils.java
+END
+UsrProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/73/trunk/src/main/java/org/svnadmin/util/UsrProvider.java
+END
+LangProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/37/trunk/src/main/java/org/svnadmin/util/LangProvider.java
+END

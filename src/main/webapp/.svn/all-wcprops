@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/145/trunk/src/main/webapp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/145/trunk/src/main/webapp/header.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/72/trunk/src/main/webapp/login.jsp
+END
+i18nadd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/98/trunk/src/main/webapp/i18nadd.jsp
+END
+usr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/145/trunk/src/main/webapp/usr.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/26/trunk/src/main/webapp/error.jsp
+END
+chagelang.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/50/trunk/src/main/webapp/chagelang.jsp
+END
+pj.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/98/trunk/src/main/webapp/pj.jsp
+END
+pjauth.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/145/trunk/src/main/webapp/pjauth.jsp
+END
+pjgrusr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/145/trunk/src/main/webapp/pjgrusr.jsp
+END
+i18n.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/98/trunk/src/main/webapp/i18n.jsp
+END
+pjgr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/98/trunk/src/main/webapp/pjgr.jsp
+END
+pjusr.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/145/trunk/src/main/webapp/pjusr.jsp
+END
+rep.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/82/trunk/src/main/webapp/rep.jsp
+END

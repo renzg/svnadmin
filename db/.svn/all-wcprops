@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/145/trunk/db
+END
+svnadmin_mysql.pdm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/132/trunk/db/svnadmin_mysql.pdm
+END
+sqlserver2000.sql
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/145/trunk/db/sqlserver2000.sql
+END
+svnadmin_mysql.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/132/trunk/db/svnadmin_mysql.pdb
+END
+mysql5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/145/trunk/db/mysql5.sql
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/61/trunk/db/readme.txt
+END
+oracle10g.sql
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/145/trunk/db/oracle10g.sql
+END

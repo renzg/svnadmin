@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/145/trunk/src/main/java/org/svnadmin/entity
+END
+Usr.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/145/trunk/src/main/java/org/svnadmin/entity/Usr.java
+END
+Pj.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/44/trunk/src/main/java/org/svnadmin/entity/Pj.java
+END
+PjAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/145/trunk/src/main/java/org/svnadmin/entity/PjAuth.java
+END
+PjGrUsr.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/145/trunk/src/main/java/org/svnadmin/entity/PjGrUsr.java
+END
+I18n.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/76/trunk/src/main/java/org/svnadmin/entity/I18n.java
+END
+PjGr.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/44/trunk/src/main/java/org/svnadmin/entity/PjGr.java
+END
+PjUsr.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/44/trunk/src/main/java/org/svnadmin/entity/PjUsr.java
+END
+Ajax.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/68/trunk/src/main/java/org/svnadmin/entity/Ajax.java
+END
